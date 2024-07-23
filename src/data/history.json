@@ -1,0 +1,30 @@
+[
+  {
+    "role": "Master of Computer Application",
+    "startDate": "2023",
+    "endDate": "2025",
+    "experiences": ["Dewan Group of Management Studies, Meerut"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Bachelors of Computer Application",
+    "startDate": "2020",
+    "endDate": "2023",
+    "experiences": ["Meerut Institute of Technology, Meerut"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Senior Secondary School",
+    "startDate": "2018",
+    "endDate": "2020",
+    "experiences": ["Sanatan Dharma Inter College, Sadar , Meerut"],
+    "imageSrc": "history/netflix.png"
+  },
+  {
+    "role": "Secondary School",
+    "startDate": "2014",
+    "endDate": "2018",
+    "experiences": ["Sanatan Dharma Inter College, Sadar , Meerut"],
+    "imageSrc": "history/netflix.png"
+  }
+]

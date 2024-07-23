@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Countries API",
+    "imageSrc": "projects/countriesAPI.png",
+    "description": "A dynamic countries web application using HTML, CSS, and JavaScript, integrating RESTful APIs",
+    "skills": ["HTML", "CSS", "vanilla JS", "rest API"],
+    "demo": "https://peppy-trifle-078a6e.netlify.app/",
+    "source": "https://github.com/HamzaNabeel/Countries"
+  },
+  {
+    "title": "Top Three Goals",
+    "imageSrc": "projects/TopThreeGoals.png",
+    "description": "A responsive Goal web application using HTML, CSS, and JavaScript",
+    "skills": ["HTML", "CSS", "vanilla JS"],
+    "demo": "https://top-three-goals.netlify.app/",
+    "source": "https://github.com/HamzaNabeel/Top_Three_Goals"
+  },
+  {
+    "title": "Trade Board",
+    "imageSrc": "projects/TradeBoard.png",
+    "description": "A responsive trading platform interface using React and Chakra UI.",
+    "skills": ["React", "Chakra UI"],
+    "demo": "https://trade-board-web.netlify.app/",
+    "source": "https://github.com/HamzaNabeel/Trade-board-web"
+  },
+  {
+    "title": "Dice Game",
+    "imageSrc": "projects/dicegame.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "styled components"],
+    "demo": "https://dicegamehamza.netlify.app/",
+    "source": "https://github.com/HamzaNabeel/Dice-Game"
+  },
+  {
+    "title": "Currency Converter",
+    "imageSrc": "projects/CurrencyConverter.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "tailwind CSS", "rest API"],
+    "demo": "https://benevolent-profiterole-e8d540.netlify.app/",
+    "source": "https://github.com/HamzaNabeel/CurrencyConverterTest"
+  },
+  {
+    "title": "QuickVideoCall",
+    "imageSrc": "projects/quickvideocall.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "vanilla CSS", "ZegoCloud"],
+    "demo": "https://quick-video-call.netlify.app/",
+    "source": "https://github.com/HamzaNabeel/Quick-VideoCall"
+  },
+  {
+    "title": "HooBank",
+    "imageSrc": "projects/hoobank.png",
+    "description": "A responsive site showcasing frontend skills with React and Tailwind CSS, featuring interactive components and smooth navigation",
+    "skills": ["React", "Tailwind CSS"],
+    "demo": "https://bankwebhamza.netlify.app/",
+    "source": "https://github.com/HamzaNabeel/Hoobank"
+  }
+]
