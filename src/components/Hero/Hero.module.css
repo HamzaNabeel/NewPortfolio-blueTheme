@@ -102,6 +102,12 @@
 }
 
 @media screen and (max-width: 830px) {
+  .title{
+    font-size: 50px;
+  }
+  .description{
+    font-size: 25px;
+  }
   .heroImg{
     margin-bottom: 20px;
     width: 85%;
