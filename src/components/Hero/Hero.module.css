@@ -108,6 +108,11 @@
   .description{
     font-size: 25px;
   }
+
+  .contactBtn{
+    font-size: 25px;
+    padding: 10px 18px;
+  }
   .heroImg{
     margin-bottom: 20px;
     width: 85%;
